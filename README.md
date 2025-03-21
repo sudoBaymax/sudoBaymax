@@ -7,7 +7,9 @@
 👯 **Collaborating On:** The MAGDA project, using deep learning to recommend eyewear  
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![sudoBaymax's Stats](https://github-readme-stats.vercel.app/api?username=sudoBaymax&theme=merko&show_icons=true&hide_border=true&count_private=true)
 ![sudoBaymax's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudoBaymax&theme=vue-dark&hide_border=true)
+![sudoBaymax's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoBaymax&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

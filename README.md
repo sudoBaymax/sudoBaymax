@@ -4,7 +4,7 @@
 👨‍🎓 **Computer Science BSc Student** at Wilfrid Laurier University, Waterloo, Ontario, Canada  
 🔭 **Current Project:** Developing an app to help people find the perfect eyewear in seconds  
 🌱 **Learning:** Medical image segmentation/annotation models and computer vision  
-👯 **Collaborating On:** The MAGDA project, using deep learning to recommend eyewear  
+👯 **Collaborating On:** Glance with my co-founder Amun, using deep learning to recommend eyewear  
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![sudoBaymax's Stats](https://github-readme-stats.vercel.app/api?username=sudoBaymax&theme=merko&show_icons=true&hide_border=true&count_private=true)

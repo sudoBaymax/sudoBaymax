@@ -2,7 +2,7 @@
 
 👨‍💻 **Software Engineer and Entrepreneur** building projects that solve real-world problems  
 👨‍🎓 **Computer Science BSc Student** at Wilfrid Laurier University, Waterloo, Ontario, Canada  
-🔭 **Current Project** Developing an app to help software engineers build tech-optimized resumes
+🔭 **Current Project** Developing an app to help software engineers build tech-optimized resume
 🌱 **Learning:** Assembly and Rust to build an Electronic Medical Record (EMR) software
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->

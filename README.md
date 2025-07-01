@@ -2,11 +2,8 @@
 
 👨‍💻 **Software Engineer and Entrepreneur** building projects that solve real-world problems  
 👨‍🎓 **Computer Science BSc Student** at Wilfrid Laurier University, Waterloo, Ontario, Canada  
-🔭 **Current Project** Developing an app to help software engineers build tech-optimized resumes
+🔭 **Current Project** Developing an app to help software engineers build tech-optimized resume 
 👨‍💻 **Software Engineer and Entrepreneur** building projects that solve real-world problems  
-👨‍🎓 **Computer Science BSc Student** at Wilfrid Laurier University, Waterloo, Ontario, Canada  
-🔭 **Current Project** Developing an app to help software engineers build tech-optimized resumes
-🌱 **Learning:** Assembly and Rust to build an Electronic Medical Record (EMR) software
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![sudoBaymax's Stats](https://github-readme-stats.vercel.app/api?username=sudoBaymax&theme=merko&show_icons=true&hide_border=true&count_private=true)

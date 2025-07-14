@@ -6,7 +6,7 @@
 🚀 **Mission:** Turning ideas into impact through scalable, user-centered software solutions
 
   <a href="https://github.com/sudoBaymax/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaomingX&theme=xcode&hide_border=true" alt="Activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudoBaymax&theme=xcode&hide_border=true" alt="Activity graph">
   </a>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->

@@ -5,6 +5,10 @@
 🔭 **Current Project:** Developing an app to help software engineers build tech-optimized resumes  
 🚀 **Mission:** Turning ideas into impact through scalable, user-centered software solutions
 
+  <a href="https://github.com/sudoBaymax/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaomingX&theme=xcode&hide_border=true" alt="Activity graph">
+  </a>
+
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![sudoBaymax's Stats](https://github-readme-stats.vercel.app/api?username=sudoBaymax&theme=merko&show_icons=true&hide_border=true&count_private=true)
 ![sudoBaymax's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudoBaymax&theme=vue-dark&hide_border=true)
